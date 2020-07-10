@@ -22,7 +22,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bhot
+$ git clone https://github.com/shahelyas/elyas
 <br/>
 $ pip2 install requests
 <br/>
@@ -30,9 +30,9 @@ $ pip2 install mechanize
 <br/>
 $ ls
 <br/>
-$ cd bhot
+$ cd elyas
 <br/>
-$ python2 bhot.py
+$ python2 elyas.py
 <br/>
 ...
 <br/>
